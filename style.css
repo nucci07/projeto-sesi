@@ -1,0 +1,34 @@
+.letra{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(231, 235, 238);
+    
+}
+.corpo{
+  background-color: rgb(203, 148, 101);
+  text-align: center;
+  font-size: medium;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+.box{
+
+    float: left;
+    width: 400px;
+  }
+  
+  img{
+    width: 100%;
+  }
+
+.dive{
+    align-items: center;
+}
+
+.equi{
+    float: left;
+    width: 400px;
+    
+  }
+  
+  img{
+    
+    width: 100%;
+  }
